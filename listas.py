@@ -30,3 +30,8 @@ class memDinamica:
 
     def imprimirLista(self):
     	print (self.__lista)
+
+    def eliminarElemento(self):
+        self.__lista.pop
+
+        
